@@ -21,6 +21,7 @@ Oi eu sou o Rodrigues, sou programador a mais de 7 anos trabalhando de forma pro
  - Bitcoin Core
  - IBM Cloud | AWS
  - TensorFlow.js
+ - Elasticsearch | Kibana | APM | Logstash
 
 ### Social
 
