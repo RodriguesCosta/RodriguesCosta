@@ -1,6 +1,4 @@
-![enter image description here](https://res.cloudinary.com/rodriguescosta/image/upload/v1594269296/readme_logos/header-github_npqcdy.jpg)
-
-# Rodrigues Costa
+![header github](https://res.cloudinary.com/rodriguescosta/image/upload/v1594269768/readme_logos/header-github_zaavrs.jpg)
 
 Oi eu sou o Rodrigues, sou programador a mais de 7 anos trabalhando de forma profissional desde 2018, antes disso trabalhava com manutenção de computadores e fazia alguns programas de forma pessoal.
 
