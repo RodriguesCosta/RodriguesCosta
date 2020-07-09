@@ -13,6 +13,14 @@ Oi eu sou o Rodrigues, sou programador a mais de 7 anos trabalhando de forma pro
  - [HOTS API](https://github.com/RodriguesCosta/hots-api) - API feita com NextJS que extrai dados do HTML do site da Blizzard
  - [RCN HOTS](https://github.com/RodriguesCosta/rcnhots) - Aplicativo feito em React Native que consome a API anterior para mostrar as informações.
  - [CEP Check](https://github.com/RodriguesCosta/cep-check) - Aplicativo que consulta, lista, filtra e salva CEPS.
+ 
+ ### Conhecimentos práticos
+
+ - Docker | Kubernetes
+ - RabbitMQ | MongoDB | Redis
+ - Bitcoin Core
+ - IBM Cloud | AWS
+ - TensorFlow.js
 
 ### Social
 
