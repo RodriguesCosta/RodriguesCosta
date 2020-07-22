@@ -8,7 +8,7 @@ Oi eu sou o Rodrigues, sou programador a mais de 7 anos trabalhando de forma pro
 
  - [nodemailer-transport-sendgrid](https://github.com/RodriguesCosta/nodemailer-transport-sendgrid) - Transporte para node mailer que integra com o sendgrid possibilitando a definição de categorias no ato do envio de e-mail pelo sendgrid.
  - [rabbitmq-services-lib](https://github.com/RodriguesCosta/rabbitmq-services-lib) - Lib TypeScript que facilita bastante o envio e o consumo de filas usando rabbitmq.
- - [https://streamtool.live/](https://streamtool.live/) - Projeto que pretendo tornar Open Source em breve.
+ - [stream-tool-live](https://github.com/RodriguesCosta/stream-tool-live) - Projeto open source que idealizei e mantenho.
 
 ### Portfólio
 
