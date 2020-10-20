@@ -29,7 +29,6 @@ Oi eu sou o Rodrigues, sou programador a mais de 7 anos trabalhando de forma pro
 
 **LinkedIn:** [https://www.linkedin.com/in/jose-rodrigues-da-costa-neto](https://www.linkedin.com/in/jose-rodrigues-da-costa-neto).   
 **YouTube:** [https://www.youtube.com/user/RodriguesCostaNeto](https://www.youtube.com/user/RodriguesCostaNeto).   
-**Site que atualizo de vez em quando:** [https://itstech.info/](https://itstech.info/).   
 **Twitch:** [https://www.twitch.tv/rodriguescostaneto](https://www.twitch.tv/rodriguescostaneto).   
   
   
