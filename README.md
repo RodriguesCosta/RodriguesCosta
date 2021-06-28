@@ -1,8 +1,8 @@
-![header github](https://res.cloudinary.com/rodriguescosta/image/upload/v1594269768/readme_logos/header-github_zaavrs.jpg)
 
-<img src="https://komarev.com/ghpvc/?username=RodriguesCosta" alt="RodriguesCosta" />
+Oi Rodrigues aqui!
 
-Oi eu sou o Rodrigues, sou programador a mais de 7 anos trabalhando de forma profissional desde 2018, antes disso trabalhava com manutenção de computadores e fazia alguns programas de forma pessoal.
+Programar e uma mistura de arte e ciência.  
+Ter criatividade para criar soluções inteligentes que usam tecnologia e o trabalho de um programador.
 
 ### Projetos
 
@@ -10,26 +10,34 @@ Oi eu sou o Rodrigues, sou programador a mais de 7 anos trabalhando de forma pro
  - [rabbitmq-services-lib](https://github.com/RodriguesCosta/rabbitmq-services-lib) - Lib TypeScript que facilita bastante o envio e o consumo de filas usando rabbitmq.
  - [streamtool.live](https://streamtool.live) - Projeto que idealizei e mantenho.
 
-### Portfólio
-
- - [HOTS API](https://github.com/RodriguesCosta/hots-api) - API feita com NextJS que extrai dados do HTML do site da Blizzard
- - [RCN HOTS](https://github.com/RodriguesCosta/rcnhots) - Aplicativo feito em React Native que consome a API anterior para mostrar as informações.
- - [CEP Check](https://github.com/RodriguesCosta/cep-check) - Aplicativo que consulta, lista, filtra e salva CEPS.
+### Tenho experiência prática com
  
- ### Conhecimentos práticos
-
+ - JavaScript | TypeScript
+ - Linux | Windows | macOS
  - Docker | Kubernetes
- - RabbitMQ | MongoDB | Redis
+ - RabbitMQ | MongoDB | Redis | PostgreSQL <TypeORM>
  - Bitcoin Core
  - IBM Cloud | AWS
  - TensorFlow.js
  - Elasticsearch | Kibana | APM | Logstash
+ 
+### Mini Portfólio
 
+ - [HOTS API](https://github.com/RodriguesCosta/hots-api) - API feita com NextJS que extrai dados do HTML do site da Blizzard
+ - [RCN HOTS](https://github.com/RodriguesCosta/rcnhots) - Aplicativo feito em React Native que consome a API anterior para mostrar as informações.
+ - [CEP Check](https://github.com/RodriguesCosta/cep-check) - Aplicativo que consulta, lista, filtra e salva CEPS.
+
+  
+### GitHub Status
+
+<img align="center" style="margin-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=rodriguescosta&show_icons=true&theme=dark" alt="RodriguesCosta" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriguesCosta&layout=compact&theme=dark" alt="RodriguesCosta" />
+ 
 ### Social
 
 **LinkedIn:** [https://www.linkedin.com/in/jose-rodrigues-da-costa-neto](https://www.linkedin.com/in/jose-rodrigues-da-costa-neto).   
 **YouTube:** [https://www.youtube.com/user/RodriguesCostaNeto](https://www.youtube.com/user/RodriguesCostaNeto).   
 **Twitch:** [https://www.twitch.tv/rodriguescostaneto](https://www.twitch.tv/rodriguescostaneto).   
-  
-  
-<img src="https://github-readme-stats.vercel.app/api?username=rodriguescosta&show_icons=true" alt="RodriguesCosta" />
+ 
+<img src="https://komarev.com/ghpvc/?username=RodriguesCosta" alt="RodriguesCosta" />   
+
+ 
