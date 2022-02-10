@@ -1,4 +1,8 @@
 
+<a href="https://app.daily.dev/RodriguesCosta">
+ <img align="right" src="https://api.daily.dev/devcards/0ed94038c9a04f9d95d6e3400791ce5a.png?r=dfi" width="350" alt="Rodrigues Costa's Dev Card"/>
+</a>
+
 Oi Rodrigues aqui!
 
 Programar e uma mistura de arte e ciência.  
@@ -30,7 +34,7 @@ Ter criatividade para criar soluções inteligentes que usam tecnologia e o trab
   
 ### GitHub Status
 
-<img align="center" style="margin-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=rodriguescosta&show_icons=true&theme=dark" alt="RodriguesCosta" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriguesCosta&layout=compact&theme=dark" alt="RodriguesCosta" />
+<img src="https://github-readme-stats.vercel.app/api?username=rodriguescosta&show_icons=true&theme=dark" alt="RodriguesCosta" />
  
 ### Social
 
