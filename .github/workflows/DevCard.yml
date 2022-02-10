@@ -14,5 +14,5 @@ jobs:
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: main
-          commit_filename: assets/devcard.svg
+          commit_filename: assets/devcard.png
           commit_message: "chore: update ${filename}"
