@@ -25,7 +25,7 @@ Ter criatividade para criar soluções inteligentes que usam tecnologia e o trab
  - TensorFlow.js
  - Elasticsearch | Kibana | APM | Logstash
  
-### Mini Portfólio
+### Alguns Projetos
 
  - [HOTS API](https://github.com/RodriguesCosta/hots-api) - API feita com NextJS que extrai dados do HTML do site da Blizzard
  - [RCN HOTS](https://github.com/RodriguesCosta/rcnhots) - Aplicativo feito em React Native que consome a API anterior para mostrar as informações.
