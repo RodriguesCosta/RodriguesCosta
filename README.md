@@ -1,8 +1,3 @@
-
-<a href="https://app.daily.dev/RodriguesCosta">
- <img align="right" src="https://api.daily.dev/devcards/0ed94038c9a04f9d95d6e3400791ce5a.png?r=dfi" width="350" alt="Rodrigues Costa's Dev Card"/>
-</a>
-
 Oi Rodrigues aqui!
 
 Programar e uma mistura de arte e ciência.  
@@ -41,7 +36,3 @@ Ter criatividade para criar soluções inteligentes que usam tecnologia e o trab
 **LinkedIn:** [https://www.linkedin.com/in/jose-rodrigues-da-costa-neto](https://www.linkedin.com/in/jose-rodrigues-da-costa-neto).   
 **YouTube:** [https://www.youtube.com/user/RodriguesCostaNeto](https://www.youtube.com/user/RodriguesCostaNeto).   
 **Twitch:** [https://www.twitch.tv/rodriguescostaneto](https://www.twitch.tv/rodriguescostaneto).   
- 
-<img src="https://komarev.com/ghpvc/?username=RodriguesCosta" alt="RodriguesCosta" />   
-
- 
