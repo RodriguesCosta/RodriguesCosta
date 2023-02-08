@@ -7,7 +7,6 @@ Ter criatividade para criar soluções inteligentes que usam tecnologia e o trab
 
  - [nodemailer-transport-sendgrid](https://github.com/RodriguesCosta/nodemailer-transport-sendgrid) - Transporte para node mailer que integra com o sendgrid possibilitando a definição de categorias no ato do envio de e-mail pelo sendgrid.
  - [rabbitmq-services-lib](https://github.com/RodriguesCosta/rabbitmq-services-lib) - Lib TypeScript que facilita bastante o envio e o consumo de filas usando rabbitmq.
- - [streamtool.live](https://streamtool.live) - Projeto que idealizei e mantenho.
 
 ### Tenho experiência prática com
  
