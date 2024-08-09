@@ -24,11 +24,6 @@ Ter criatividade para criar soluções inteligentes que usam tecnologia e o trab
  - [HOTS API](https://github.com/RodriguesCosta/hots-api) - API feita com NextJS que extrai dados do HTML do site da Blizzard
  - [RCN HOTS](https://github.com/RodriguesCosta/rcnhots) - Aplicativo feito em React Native que consome a API anterior para mostrar as informações.
  - [CEP Check](https://github.com/RodriguesCosta/cep-check) - Aplicativo que consulta, lista, filtra e salva CEPS.
-
-  
-### GitHub Status
-
-<img src="https://github-readme-stats.vercel.app/api?username=rodriguescosta&show_icons=true&theme=dark" alt="RodriguesCosta" />
  
 ### Social
 
