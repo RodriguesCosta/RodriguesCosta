@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Open_to_opportunities-2EA44F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based_in_Brazil-009C3B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Remote_friendly-555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Portuguese_only-FFDF00?style=for-the-badge" />
 </p>
 
 ---
@@ -26,7 +27,9 @@ Software engineer with **10+ years of experience** building backend systems, eve
 
 Lately I've been shipping a lot of **LLM-driven automation** (Claude, OpenAI, n8n, custom agents) on top of the same patterns I've used for years for distributed services: clean boundaries, observability, and pragmatic abstractions.
 
-Based in Brazil and **open to remote roles globally**.
+Based in Brazil and **open to remote roles**.
+
+> **Heads up for recruiters:** I'm a **Portuguese-only speaker** (PT-BR). I'm comfortable *reading* English technical material, but I don't conduct interviews or daily work in English. Best fit: Brazilian companies or international teams that operate in Portuguese.
 
 ---
 
@@ -44,6 +47,7 @@ Based in Brazil and **open to remote roles globally**.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 
 **Infrastructure & Cloud**  
@@ -56,7 +60,7 @@ Based in Brazil and **open to remote roles globally**.
 **Frameworks & Tools**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
