@@ -85,19 +85,6 @@ Based in Brazil and **open to remote roles**.
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RodriguesCosta&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriguesCosta&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriguesCosta&hide_border=true" />
-</p>
-
----
-
 ### Beyond code
 
 I publish tech content on [**YouTube**](https://www.youtube.com/user/RodriguesCostaNeto) and live-stream coding sessions on [**Twitch**](https://www.twitch.tv/rodriguescostaneto).
